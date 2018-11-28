@@ -62,4 +62,23 @@ ul.lista-productos li p{
     font-size: 28px;
     font-weight: bold;
     color: #ffffff;
+    margin-top: 10px;
+}
+ul.lista-productos li p span{
+    font-size: 40px;
+    color: #ffc300;
+}
+.boton{
+    background-color: #ffc300;
+    padding: 10px 40px;
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgba(128, 1, 195, .8);
+    font-size: 18px;
+}
+.boton:hover{
+    color: rgba(128, 1, 195, 1);
 }
